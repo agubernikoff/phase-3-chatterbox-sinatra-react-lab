@@ -3,7 +3,7 @@ import React from "react";
 function Header({ isDarkMode, onToggleDarkMode }) {
   return (
     <header>
-      <h1>Chatterbox</h1>
+      <h1>Chatturbate</h1>
       <div className="toggle-switch">
         <input
           type="checkbox"
